@@ -68,8 +68,8 @@
     },
     "chatbot-ui-main": {
       "totalLinesAdded": 1310,
-      "totalLinesRemoved": 582,
-      "totalActiveTime": 49,
+      "totalLinesRemoved": 586,
+      "totalActiveTime": 51,
       "files": {
         "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\app\\[locale]\\local\\layout.tsx": [
           {
@@ -560,6 +560,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 3,
+            "projectName": "chatbot-ui-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-02-17T02:31:42.874Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\app\\[locale]\\local\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "chatbot-ui-main",
             "content": {
               "added": [],
