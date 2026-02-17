@@ -327,6 +327,39 @@
         "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\components\\utility\\global-state.tsx"
       ],
       "averageChangeSize": 39.57142857142857
+    },
+    "ID.IA": {
+      "totalLinesAdded": 37,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\.env.local": [
+          {
+            "timestamp": "2026-02-17T10:57:13.021Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "ID.IA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "local"
+          }
+        ]
+      },
+      "languageStats": {
+        "local": 0
+      },
+      "changeFrequency": {
+        "7": 0
+      },
+      "topFiles": [
+        "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\.env.local"
+      ],
+      "averageChangeSize": 37
     }
   },
   "totalActiveTime": 6,
