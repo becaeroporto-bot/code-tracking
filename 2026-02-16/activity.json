@@ -67,7 +67,7 @@
       "averageChangeSize": 78.66666666666667
     },
     "chatbot-ui-main": {
-      "totalLinesAdded": 437,
+      "totalLinesAdded": 455,
       "totalLinesRemoved": 3,
       "totalActiveTime": 17,
       "files": {
@@ -285,6 +285,22 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\app\\[locale]\\local\\page.tsx": [
+          {
+            "timestamp": "2026-02-17T02:15:51.563Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\app\\[locale]\\local\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "chatbot-ui-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
