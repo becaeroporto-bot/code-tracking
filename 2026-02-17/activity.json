@@ -330,8 +330,8 @@
     },
     "ID.IA": {
       "totalLinesAdded": 2167,
-      "totalLinesRemoved": 164,
-      "totalActiveTime": 45,
+      "totalLinesRemoved": 171,
+      "totalActiveTime": 47,
       "files": {
         "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\.env.local": [
           {
@@ -1068,6 +1068,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-02-17T13:52:28.484Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\app\\[locale]\\[workspaceid]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "ID.IA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
