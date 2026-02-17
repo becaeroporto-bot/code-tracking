@@ -329,9 +329,9 @@
       "averageChangeSize": 39.57142857142857
     },
     "ID.IA": {
-      "totalLinesAdded": 1326,
+      "totalLinesAdded": 2167,
       "totalLinesRemoved": 164,
-      "totalActiveTime": 31,
+      "totalActiveTime": 45,
       "files": {
         "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\.env.local": [
           {
@@ -900,6 +900,174 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-02-17T13:46:47.377Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\sidebar\\items\\presets\\create-preset.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "ID.IA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\sidebar\\items\\prompts\\create-prompt.tsx": [
+          {
+            "timestamp": "2026-02-17T13:47:01.309Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\sidebar\\items\\prompts\\create-prompt.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 80,
+            "linesRemoved": 0,
+            "projectName": "ID.IA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\sidebar\\items\\tools\\create-tool.tsx": [
+          {
+            "timestamp": "2026-02-17T13:47:08.973Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\sidebar\\items\\tools\\create-tool.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 180,
+            "linesRemoved": 0,
+            "projectName": "ID.IA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\sidebar\\items\\models\\create-model.tsx": [
+          {
+            "timestamp": "2026-02-17T13:47:21.333Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\sidebar\\items\\models\\create-model.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 125,
+            "linesRemoved": 0,
+            "projectName": "ID.IA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\sidebar\\items\\files\\create-file.tsx": [
+          {
+            "timestamp": "2026-02-17T13:47:27.936Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\sidebar\\items\\files\\create-file.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 101,
+            "linesRemoved": 0,
+            "projectName": "ID.IA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\sidebar\\items\\collections\\create-collection.tsx": [
+          {
+            "timestamp": "2026-02-17T13:47:35.106Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\sidebar\\items\\collections\\create-collection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 101,
+            "linesRemoved": 0,
+            "projectName": "ID.IA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-02-17T13:47:35.207Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\sidebar\\items\\collections\\create-collection.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "ID.IA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\sidebar\\items\\assistants\\create-assistant.tsx": [
+          {
+            "timestamp": "2026-02-17T13:47:45.156Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\sidebar\\items\\assistants\\create-assistant.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 212,
+            "linesRemoved": 0,
+            "projectName": "ID.IA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-02-17T13:47:45.258Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\sidebar\\items\\assistants\\create-assistant.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "ID.IA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\app\\[locale]\\[workspaceid]\\page.tsx": [
+          {
+            "timestamp": "2026-02-17T13:50:52.007Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\app\\[locale]\\[workspaceid]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "ID.IA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-02-17T13:50:52.166Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\app\\[locale]\\[workspaceid]\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "ID.IA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
