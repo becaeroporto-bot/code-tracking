@@ -329,9 +329,9 @@
       "averageChangeSize": 39.57142857142857
     },
     "ID.IA": {
-      "totalLinesAdded": 3400,
+      "totalLinesAdded": 3693,
       "totalLinesRemoved": 201,
-      "totalActiveTime": 62,
+      "totalActiveTime": 70,
       "files": {
         "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\.env.local": [
           {
@@ -1255,6 +1255,68 @@
             "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\ui\\chat-settings-form.tsx",
             "fileType": ".tsx",
             "linesAdded": 254,
+            "linesRemoved": 0,
+            "projectName": "ID.IA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\chat\\chat-ui.tsx": [
+          {
+            "timestamp": "2026-02-17T14:08:22.261Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\chat\\chat-ui.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 231,
+            "linesRemoved": 0,
+            "projectName": "ID.IA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-02-17T14:08:52.401Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\chat\\chat-ui.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "ID.IA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\setup\\finish-step.tsx": [
+          {
+            "timestamp": "2026-02-17T14:09:47.509Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\setup\\finish-step.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "ID.IA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\ui\\advanced-settings.tsx": [
+          {
+            "timestamp": "2026-02-17T14:10:55.003Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\components\\ui\\advanced-settings.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 41,
             "linesRemoved": 0,
             "projectName": "ID.IA",
             "content": {
