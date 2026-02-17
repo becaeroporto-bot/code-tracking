@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4344                                          |
-| **Lines Removed** (➖) | 466                                        |
-| **Net Change** (↕)    | 3878                |
-| **Active Time** (⌚)   | 44 minutes |
+| **Lines Added** (➕)   | 5537                                          |
+| **Lines Removed** (➖) | 489                                        |
+| **Net Change** (↕)    | 5048                |
+| **Active Time** (⌚)   | 60 minutes |
 
 
 ## Modified Files
 - **ConfigManager.js** (+586, -397)
-- **dashboard.js** (+912, -2)
+- **dashboard.js** (+921, -13)
 - **index.js** (+491, -0)
 - **chat-flow.js** (+523, -0)
 - **launcher.cs** (+217, -45)
@@ -21,6 +21,10 @@
 - **calafate_glaciares.txt** (+139, -14)
 - **ushuaia_passeios.txt** (+101, -7)
 - **follow-up-service.js** (+1048, -1)
+- **config.html** (+308, -4)
+- **newchats.html** (+289, -4)
+- **followup.html** (+242, -4)
+- **index.html** (+345, -0)
 
 ## Visualizations
 
@@ -29,10 +33,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 4229
+".js" : 4249
 ".cs" : 262
 ".ps1" : 58
 ".txt" : 261
+".html" : 1196
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +46,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "16h" : 22
-"17h" : 11
+"17h" : 24
 ```
 
 
-> **Last Updated:** 17/02/2026, 17:42:48
+> **Last Updated:** 17/02/2026, 17:47:48
