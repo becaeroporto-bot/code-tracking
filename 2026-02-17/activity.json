@@ -329,7 +329,7 @@
       "averageChangeSize": 39.57142857142857
     },
     "ID.IA": {
-      "totalLinesAdded": 167,
+      "totalLinesAdded": 204,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -377,6 +377,22 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\next.config.js": [
+          {
+            "timestamp": "2026-02-17T12:12:20.681Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\next.config.js",
+            "fileType": ".js",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "ID.IA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },
