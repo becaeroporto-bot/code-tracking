@@ -1,0 +1,143 @@
+{
+  "date": "2026-02-17",
+  "projects": {
+    "chatbot-ui-main": {
+      "totalLinesAdded": 156,
+      "totalLinesRemoved": 121,
+      "totalActiveTime": 6,
+      "files": {
+        "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\app\\[locale]\\local\\page.tsx": [
+          {
+            "timestamp": "2026-02-17T10:11:21.257Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\app\\[locale]\\local\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "chatbot-ui-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\app\\[locale]\\local\\layout.tsx": [
+          {
+            "timestamp": "2026-02-17T10:11:21.502Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\app\\[locale]\\local\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 125,
+            "linesRemoved": 0,
+            "projectName": "chatbot-ui-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-02-17T10:11:22.154Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\app\\[locale]\\local\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "chatbot-ui-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-02-17T10:11:22.483Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\app\\[locale]\\local\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 117,
+            "projectName": "chatbot-ui-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\app\\[locale]\\layout.tsx": [
+          {
+            "timestamp": "2026-02-17T10:11:21.602Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\app\\[locale]\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "chatbot-ui-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\components\\utility\\providers.tsx": [
+          {
+            "timestamp": "2026-02-17T10:11:21.867Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\components\\utility\\providers.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "chatbot-ui-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\components\\utility\\global-state.tsx": [
+          {
+            "timestamp": "2026-02-17T10:11:22.664Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\components\\utility\\global-state.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "chatbot-ui-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 6
+      },
+      "changeFrequency": {
+        "7": 6
+      },
+      "topFiles": [
+        "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\app\\[locale]\\local\\layout.tsx",
+        "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\app\\[locale]\\local\\page.tsx",
+        "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\app\\[locale]\\layout.tsx",
+        "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\components\\utility\\providers.tsx",
+        "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\components\\utility\\global-state.tsx"
+      ],
+      "averageChangeSize": 39.57142857142857
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 5,
+  "mostActiveHours": [
+    7
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
