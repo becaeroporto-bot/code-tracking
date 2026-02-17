@@ -329,9 +329,9 @@
       "averageChangeSize": 39.57142857142857
     },
     "ID.IA": {
-      "totalLinesAdded": 7821,
+      "totalLinesAdded": 7822,
       "totalLinesRemoved": 202,
-      "totalActiveTime": 81,
+      "totalActiveTime": 83,
       "files": {
         "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\.env.local": [
           {
@@ -1414,6 +1414,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2026-02-17T14:27:02.851Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\ID.IA\\chatbot-ui-main\\.next\\static\\css\\app\\[locale]\\layout.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "ID.IA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "css"
           }
         ]
