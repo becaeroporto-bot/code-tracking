@@ -1444,9 +1444,9 @@
       "averageChangeSize": 37
     },
     "Bot V1.2": {
-      "totalLinesAdded": 5854,
-      "totalLinesRemoved": 495,
-      "totalActiveTime": 72,
+      "totalLinesAdded": 6119,
+      "totalLinesRemoved": 759,
+      "totalActiveTime": 73,
       "files": {
         "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\core\\ConfigManager.js": [
           {
@@ -2262,6 +2262,36 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\config\\blacklist.json": [
+          {
+            "timestamp": "2026-02-17T21:25:47.598Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\config\\blacklist.json",
+            "fileType": ".json",
+            "linesAdded": 265,
+            "linesRemoved": 0,
+            "projectName": "Bot V1.2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-02-17T21:25:50.223Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\config\\blacklist.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 264,
+            "projectName": "Bot V1.2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
