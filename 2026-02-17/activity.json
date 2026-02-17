@@ -1444,9 +1444,9 @@
       "averageChangeSize": 37
     },
     "Bot V1.2": {
-      "totalLinesAdded": 3195,
-      "totalLinesRemoved": 442,
-      "totalActiveTime": 36,
+      "totalLinesAdded": 3296,
+      "totalLinesRemoved": 463,
+      "totalActiveTime": 40,
       "files": {
         "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\core\\ConfigManager.js": [
           {
@@ -1839,6 +1839,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-02-17T20:28:43.292Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\knowledge-base\\calafate_glaciares.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "Bot V1.2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\knowledge-base\\ushuaia_passeios.txt": [
+          {
+            "timestamp": "2026-02-17T20:28:49.670Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\knowledge-base\\ushuaia_passeios.txt",
+            "fileType": ".txt",
+            "linesAdded": 101,
+            "linesRemoved": 0,
+            "projectName": "Bot V1.2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-02-17T20:29:44.406Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\knowledge-base\\ushuaia_passeios.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "Bot V1.2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "txt"
           }
         ]
