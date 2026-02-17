@@ -1445,8 +1445,8 @@
     },
     "Bot V1.2": {
       "totalLinesAdded": 4344,
-      "totalLinesRemoved": 464,
-      "totalActiveTime": 41,
+      "totalLinesRemoved": 466,
+      "totalActiveTime": 44,
       "files": {
         "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\core\\ConfigManager.js": [
           {
@@ -1631,6 +1631,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-17T20:39:25.790Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\public\\dashboard.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Bot V1.2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "js"
           }
         ],
