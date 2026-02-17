@@ -67,9 +67,9 @@
       "averageChangeSize": 78.66666666666667
     },
     "chatbot-ui-main": {
-      "totalLinesAdded": 188,
+      "totalLinesAdded": 298,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalActiveTime": 8,
       "files": {
         "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\app\\[locale]\\local\\layout.tsx": [
           {
@@ -155,6 +155,52 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\.env.local": [
+          {
+            "timestamp": "2026-02-17T01:57:18.871Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\.env.local",
+            "fileType": ".local",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "chatbot-ui-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "local"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\create-test-user.js": [
+          {
+            "timestamp": "2026-02-17T01:59:00.588Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\create-test-user.js",
+            "fileType": ".js",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "chatbot-ui-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-17T01:59:05.539Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\chatbot-ui-main\\chatbot-ui-main\\create-test-user.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "chatbot-ui-main",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
