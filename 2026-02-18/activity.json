@@ -3,8 +3,8 @@
   "projects": {
     "Bot V1.2": {
       "totalLinesAdded": 5848,
-      "totalLinesRemoved": 407,
-      "totalActiveTime": 54,
+      "totalLinesRemoved": 415,
+      "totalActiveTime": 55,
       "files": {
         "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\public\\dashboard.css": [
           {
@@ -679,6 +679,20 @@
             "fileType": ".css",
             "linesAdded": 0,
             "linesRemoved": 11,
+            "projectName": "Bot V1.2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2026-02-18T15:53:10.866Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\public\\Tkn-effects.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 8,
             "projectName": "Bot V1.2",
             "content": {
               "added": [],
