@@ -5,19 +5,19 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 8804                                          |
-| **Lines Removed** (➖) | 1830                                        |
-| **Net Change** (↕)    | 6974                |
-| **Active Time** (⌚)   | 227 minutes |
+| **Lines Removed** (➖) | 2148                                        |
+| **Net Change** (↕)    | 6656                |
+| **Active Time** (⌚)   | 235 minutes |
 
 
 ## Modified Files
 - **dashboard.css** (+1572, -58)
 - **settings.json** (+28, -0)
 - **toast-manager.js** (+80, -0)
-- **index.html** (+968, -371)
-- **config.html** (+803, -306)
-- **followup.html** (+559, -90)
-- **newchats.html** (+658, -95)
+- **index.html** (+968, -449)
+- **config.html** (+803, -383)
+- **followup.html** (+559, -173)
+- **newchats.html** (+658, -175)
 - **LIMPEZA_CACHE.bat** (+16, -3)
 - **dashboard.js** (+1146, -284)
 - **whatsapp.js** (+165, -0)
@@ -45,7 +45,7 @@ title Lines changed by file type
 ".css" : 2165
 ".json" : 28
 ".js" : 3696
-".html" : 4291
+".html" : 4609
 ".bat" : 19
 ".sh" : 211
 ".conf" : 84
@@ -64,8 +64,8 @@ title Coding activity by hour (count of changes)
 "14h" : 19
 "15h" : 31
 "16h" : 60
-"17h" : 5
+"17h" : 9
 ```
 
 
-> **Last Updated:** 18/02/2026, 17:08:10
+> **Last Updated:** 18/02/2026, 17:13:10
