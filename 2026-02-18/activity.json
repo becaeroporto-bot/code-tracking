@@ -2,9 +2,9 @@
   "date": "2026-02-18",
   "projects": {
     "Bot V1.2": {
-      "totalLinesAdded": 4139,
+      "totalLinesAdded": 5420,
       "totalLinesRemoved": 256,
-      "totalActiveTime": 36,
+      "totalActiveTime": 43,
       "files": {
         "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\public\\dashboard.css": [
           {
@@ -386,6 +386,134 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\services\\whatsapp.js": [
+          {
+            "timestamp": "2026-02-18T15:00:35.677Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\services\\whatsapp.js",
+            "fileType": ".js",
+            "linesAdded": 165,
+            "linesRemoved": 0,
+            "projectName": "Bot V1.2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\index.js": [
+          {
+            "timestamp": "2026-02-18T15:00:52.675Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\index.js",
+            "fileType": ".js",
+            "linesAdded": 490,
+            "linesRemoved": 0,
+            "projectName": "Bot V1.2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\managers\\BotLoop.js": [
+          {
+            "timestamp": "2026-02-18T15:01:03.162Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\managers\\BotLoop.js",
+            "fileType": ".js",
+            "linesAdded": 191,
+            "linesRemoved": 0,
+            "projectName": "Bot V1.2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\scripts\\deploy.sh": [
+          {
+            "timestamp": "2026-02-18T15:01:20.452Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\scripts\\deploy.sh",
+            "fileType": ".sh",
+            "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "Bot V1.2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\scripts\\monitor.sh": [
+          {
+            "timestamp": "2026-02-18T15:01:24.657Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\scripts\\monitor.sh",
+            "fileType": ".sh",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "Bot V1.2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\scripts\\rollback.sh": [
+          {
+            "timestamp": "2026-02-18T15:01:28.444Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\scripts\\rollback.sh",
+            "fileType": ".sh",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "Bot V1.2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\nginx.conf": [
+          {
+            "timestamp": "2026-02-18T15:01:46.661Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\nginx.conf",
+            "fileType": ".conf",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "Bot V1.2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "conf"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\.github\\workflows\\deploy.yml": [
+          {
+            "timestamp": "2026-02-18T15:01:51.920Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\.github\\workflows\\deploy.yml",
+            "fileType": ".yml",
+            "linesAdded": 140,
+            "linesRemoved": 0,
+            "projectName": "Bot V1.2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yml"
           }
         ]
       },
