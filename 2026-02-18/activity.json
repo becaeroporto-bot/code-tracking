@@ -3,8 +3,8 @@
   "projects": {
     "Bot V1.2": {
       "totalLinesAdded": 6318,
-      "totalLinesRemoved": 779,
-      "totalActiveTime": 83,
+      "totalLinesRemoved": 781,
+      "totalActiveTime": 86,
       "files": {
         "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\public\\dashboard.css": [
           {
@@ -249,6 +249,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-02-18T17:20:47.652Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\public\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Bot V1.2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "html"
           }
         ],
