@@ -4,20 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 12134                                          |
-| **Lines Removed** (➖) | 3612                                        |
-| **Net Change** (↕)    | 8522                |
-| **Active Time** (⌚)   | 409 minutes |
+| **Lines Added** (➕)   | 12600                                          |
+| **Lines Removed** (➖) | 3655                                        |
+| **Net Change** (↕)    | 8945                |
+| **Active Time** (⌚)   | 436 minutes |
 
 
 ## Modified Files
 - **dashboard.css** (+1572, -58)
 - **settings.json** (+28, -0)
 - **toast-manager.js** (+80, -0)
-- **index.html** (+1488, -771)
-- **config.html** (+1230, -683)
-- **followup.html** (+1005, -437)
-- **newchats.html** (+1155, -446)
+- **index.html** (+1559, -772)
+- **config.html** (+1311, -684)
+- **followup.html** (+1085, -448)
+- **newchats.html** (+1233, -455)
 - **LIMPEZA_CACHE.bat** (+16, -3)
 - **dashboard.js** (+2091, -367)
 - **whatsapp.js** (+165, -0)
@@ -29,9 +29,9 @@
 - **nginx.conf** (+84, -0)
 - **deploy.yml** (+140, -0)
 - **chat.js** (+165, -0)
-- **Tkn-effects.css** (+156, -35)
+- **Tkn-effects.css** (+312, -48)
 - **test-components.html** (+135, -3)
-- **layout-loader.js** (+1123, -689)
+- **layout-loader.js** (+1123, -697)
 - **Tkn-layout.css** (+343, -1)
 - **test-simple.html** (+198, -105)
 - **sidebar.html** (+55, -13)
@@ -44,10 +44,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".css" : 2165
+".css" : 2334
 ".json" : 28
-".js" : 5361
-".html" : 7738
+".js" : 5369
+".html" : 8070
 ".bat" : 19
 ".sh" : 211
 ".conf" : 84
@@ -68,8 +68,9 @@ title Coding activity by hour (count of changes)
 "16h" : 60
 "17h" : 41
 "18h" : 4
-"19h" : 102
+"19h" : 117
+"20h" : 9
 ```
 
 
-> **Last Updated:** 18/02/2026, 19:55:28
+> **Last Updated:** 18/02/2026, 20:00:28
