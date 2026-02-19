@@ -3666,9 +3666,9 @@
       "averageChangeSize": 42
     },
     "BOT I.A": {
-      "totalLinesAdded": 3880,
+      "totalLinesAdded": 4253,
       "totalLinesRemoved": 3614,
-      "totalActiveTime": 38,
+      "totalActiveTime": 40,
       "files": {
         "c:\\Users\\Van\\Documents\\BOT I.A\\Arquitetura Profissional.txt": [
           {
@@ -4068,6 +4068,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2026-02-19T21:03:24.692Z",
+            "fileName": "c:\\Users\\Van\\Documents\\BOT I.A\\flows\\chat-flow.js",
+            "fileType": ".js",
+            "linesAdded": 317,
+            "linesRemoved": 0,
+            "projectName": "BOT I.A",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "c:\\Users\\Van\\Documents\\BOT I.A\\core\\logger.js": [
@@ -4201,6 +4215,36 @@
               "removed": []
             },
             "duration": 4,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\Van\\Documents\\BOT I.A\\core\\BlacklistManager.js": [
+          {
+            "timestamp": "2026-02-19T21:02:50.176Z",
+            "fileName": "c:\\Users\\Van\\Documents\\BOT I.A\\core\\BlacklistManager.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "BOT I.A",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-19T21:02:51.541Z",
+            "fileName": "c:\\Users\\Van\\Documents\\BOT I.A\\core\\BlacklistManager.js",
+            "fileType": ".js",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "BOT I.A",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]
