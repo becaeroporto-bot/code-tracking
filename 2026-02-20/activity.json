@@ -2,7 +2,7 @@
   "date": "2026-02-20",
   "projects": {
     "BOT I.A": {
-      "totalLinesAdded": 1289,
+      "totalLinesAdded": 1324,
       "totalLinesRemoved": 151,
       "totalActiveTime": 32,
       "files": {
@@ -420,6 +420,22 @@
             },
             "duration": 0,
             "language": "js"
+          }
+        ],
+        "c:\\Users\\Van\\Documents\\BOT I.A\\frontend\\package.json": [
+          {
+            "timestamp": "2026-02-20T14:43:24.321Z",
+            "fileName": "c:\\Users\\Van\\Documents\\BOT I.A\\frontend\\package.json",
+            "fileType": ".json",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "BOT I.A",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
