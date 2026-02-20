@@ -3,7 +3,7 @@
   "projects": {
     "BOT I.A": {
       "totalLinesAdded": 2913,
-      "totalLinesRemoved": 418,
+      "totalLinesRemoved": 446,
       "totalActiveTime": 92,
       "files": {
         "c:\\Users\\Van\\Documents\\BOT I.A\\core\\logger.js": [
@@ -847,6 +847,20 @@
             "fileType": "unknown",
             "linesAdded": 3,
             "linesRemoved": 0,
+            "projectName": "BOT I.A",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-02-20T21:38:02.294Z",
+            "fileName": "c:\\Users\\Van\\Documents\\BOT I.A\\.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 28,
             "projectName": "BOT I.A",
             "content": {
               "added": [],
