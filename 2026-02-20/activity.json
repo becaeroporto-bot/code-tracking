@@ -2,9 +2,9 @@
   "date": "2026-02-20",
   "projects": {
     "BOT I.A": {
-      "totalLinesAdded": 2135,
-      "totalLinesRemoved": 417,
-      "totalActiveTime": 82,
+      "totalLinesAdded": 2906,
+      "totalLinesRemoved": 418,
+      "totalActiveTime": 87,
       "files": {
         "c:\\Users\\Van\\Documents\\BOT I.A\\core\\logger.js": [
           {
@@ -630,6 +630,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2026-02-20T21:13:11.010Z",
+            "fileName": "c:\\Users\\Van\\Documents\\BOT I.A\\managers\\BotManager.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "BOT I.A",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "js"
           }
         ],
         "c:\\Users\\Van\\Documents\\BOT I.A\\frontend\\package.json": [
@@ -957,6 +971,22 @@
               "removed": []
             },
             "duration": 3,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\Van\\Documents\\BOT I.A\\services\\follow-up-service.js": [
+          {
+            "timestamp": "2026-02-20T21:08:32.746Z",
+            "fileName": "c:\\Users\\Van\\Documents\\BOT I.A\\services\\follow-up-service.js",
+            "fileType": ".js",
+            "linesAdded": 771,
+            "linesRemoved": 0,
+            "projectName": "BOT I.A",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]

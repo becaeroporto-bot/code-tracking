@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2135                                          |
-| **Lines Removed** (➖) | 417                                        |
-| **Net Change** (↕)    | 1718                |
-| **Active Time** (⌚)   | 82 minutes |
+| **Lines Added** (➕)   | 2906                                          |
+| **Lines Removed** (➖) | 418                                        |
+| **Net Change** (↕)    | 2488                |
+| **Active Time** (⌚)   | 87 minutes |
 
 
 ## Modified Files
@@ -22,7 +22,7 @@
 - **aiService.js** (+234, -125)
 - **ConfigManager.js** (+100, -0)
 - **EventBus.js** (+30, -0)
-- **BotManager.js** (+268, -88)
+- **BotManager.js** (+268, -89)
 - **package.json** (+35, -0)
 - **.gitignore** (+26, -0)
 - **index.html** (+14, -0)
@@ -33,6 +33,7 @@
 - **settings.js** (+69, -0)
 - **BotLoop.js** (+135, -4)
 - **index.js** (+14, -14)
+- **follow-up-service.js** (+771, -0)
 
 ## Visualizations
 
@@ -41,7 +42,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 2289
+".js" : 3061
 ".json" : 35
 "unknown" : 120
 ".html" : 108
@@ -59,7 +60,8 @@ title Coding activity by hour (count of changes)
 "13h" : 5
 "16h" : 6
 "17h" : 23
+"18h" : 2
 ```
 
 
-> **Last Updated:** 20/02/2026, 17:38:31
+> **Last Updated:** 20/02/2026, 18:13:31
