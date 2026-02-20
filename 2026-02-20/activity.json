@@ -3,8 +3,8 @@
   "projects": {
     "BOT I.A": {
       "totalLinesAdded": 3291,
-      "totalLinesRemoved": 575,
-      "totalActiveTime": 117,
+      "totalLinesRemoved": 576,
+      "totalActiveTime": 119,
       "files": {
         "c:\\Users\\Van\\Documents\\BOT I.A\\core\\logger.js": [
           {
@@ -741,6 +741,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-20T23:44:10.960Z",
+            "fileName": "c:\\Users\\Van\\Documents\\BOT I.A\\managers\\BotManager.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "BOT I.A",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ],
