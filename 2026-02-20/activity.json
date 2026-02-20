@@ -2,9 +2,9 @@
   "date": "2026-02-20",
   "projects": {
     "BOT I.A": {
-      "totalLinesAdded": 969,
-      "totalLinesRemoved": 11,
-      "totalActiveTime": 21,
+      "totalLinesAdded": 1107,
+      "totalLinesRemoved": 151,
+      "totalActiveTime": 27,
       "files": {
         "c:\\Users\\Van\\Documents\\BOT I.A\\core\\logger.js": [
           {
@@ -41,6 +41,34 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "BOT I.A",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-20T11:38:43.650Z",
+            "fileName": "c:\\Users\\Van\\Documents\\BOT I.A\\core\\logger.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 117,
+            "projectName": "BOT I.A",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-20T11:38:56.522Z",
+            "fileName": "c:\\Users\\Van\\Documents\\BOT I.A\\core\\logger.js",
+            "fileType": ".js",
+            "linesAdded": 108,
+            "linesRemoved": 0,
             "projectName": "BOT I.A",
             "content": {
               "added": [],
@@ -182,6 +210,20 @@
             },
             "duration": 2,
             "language": "js"
+          },
+          {
+            "timestamp": "2026-02-20T11:40:11.885Z",
+            "fileName": "c:\\Users\\Van\\Documents\\BOT I.A\\services\\auth.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "BOT I.A",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "c:\\Users\\Van\\Documents\\BOT I.A\\services\\chat.js": [
@@ -191,6 +233,20 @@
             "fileType": ".js",
             "linesAdded": 97,
             "linesRemoved": 0,
+            "projectName": "BOT I.A",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-20T11:40:23.976Z",
+            "fileName": "c:\\Users\\Van\\Documents\\BOT I.A\\services\\chat.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 8,
             "projectName": "BOT I.A",
             "content": {
               "added": [],
@@ -213,6 +269,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-20T11:40:36.066Z",
+            "fileName": "c:\\Users\\Van\\Documents\\BOT I.A\\services\\monitor-service.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "BOT I.A",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ],
@@ -260,6 +330,20 @@
             },
             "duration": 1,
             "language": "js"
+          },
+          {
+            "timestamp": "2026-02-20T11:40:48.690Z",
+            "fileName": "c:\\Users\\Van\\Documents\\BOT I.A\\services\\aiService.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "BOT I.A",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "c:\\Users\\Van\\Documents\\BOT I.A\\core\\ConfigManager.js": [
@@ -275,6 +359,22 @@
               "removed": []
             },
             "duration": 3,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\Van\\Documents\\BOT I.A\\core\\EventBus.js": [
+          {
+            "timestamp": "2026-02-20T11:39:23.830Z",
+            "fileName": "c:\\Users\\Van\\Documents\\BOT I.A\\core\\EventBus.js",
+            "fileType": ".js",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "BOT I.A",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]
