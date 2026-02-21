@@ -3,7 +3,7 @@
   "projects": {
     "BOT I.A": {
       "totalLinesAdded": 870,
-      "totalLinesRemoved": 5,
+      "totalLinesRemoved": 9,
       "totalActiveTime": 25,
       "files": {
         "c:\\Users\\Van\\Documents\\BOT I.A\\config\\saved_settings.json": [
@@ -337,6 +337,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\Van\\Documents\\BOT I.A\\config\\settings.js": [
+          {
+            "timestamp": "2026-02-21T09:47:56.347Z",
+            "fileName": "c:\\Users\\Van\\Documents\\BOT I.A\\config\\settings.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "BOT I.A",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]
