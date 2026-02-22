@@ -659,9 +659,9 @@
       "averageChangeSize": 13
     },
     "Bot V1.2": {
-      "totalLinesAdded": 560,
+      "totalLinesAdded": 749,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 2,
+      "totalActiveTime": 5,
       "files": {
         "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\config\\settings.js": [
           {
@@ -720,6 +720,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\core\\ConfigManager.js": [
+          {
+            "timestamp": "2026-02-22T01:28:35.742Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\core\\ConfigManager.js",
+            "fileType": ".js",
+            "linesAdded": 189,
+            "linesRemoved": 0,
+            "projectName": "Bot V1.2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "js"
           }
         ]
