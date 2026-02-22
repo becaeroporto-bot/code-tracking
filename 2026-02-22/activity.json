@@ -3,7 +3,7 @@
   "projects": {
     "Bot V1.2": {
       "totalLinesAdded": 4,
-      "totalLinesRemoved": 4,
+      "totalLinesRemoved": 5,
       "totalActiveTime": 1,
       "files": {
         "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\index.js": [
@@ -33,6 +33,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2026-02-22T13:37:32.848Z",
+            "fileName": "c:\\Users\\Van\\OneDrive\\Desktop\\Bot V1.2\\bot\\index.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Bot V1.2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]
