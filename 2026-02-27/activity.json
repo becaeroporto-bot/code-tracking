@@ -63,7 +63,7 @@
       "averageChangeSize": 10.666666666666666
     },
     "windsurf": {
-      "totalLinesAdded": 91,
+      "totalLinesAdded": 102,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -73,6 +73,20 @@
             "fileName": "c:\\Users\\Van\\.codeium\\windsurf\\mcp_config.json",
             "fileType": ".json",
             "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "windsurf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-02-27T14:09:50.104Z",
+            "fileName": "c:\\Users\\Van\\.codeium\\windsurf\\mcp_config.json",
+            "fileType": ".json",
+            "linesAdded": 11,
             "linesRemoved": 0,
             "projectName": "windsurf",
             "content": {
