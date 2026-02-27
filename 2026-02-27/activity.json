@@ -1,0 +1,75 @@
+{
+  "date": "2026-02-27",
+  "projects": {
+    "User": {
+      "totalLinesAdded": 32,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\Van\\AppData\\Roaming\\Windsurf\\User\\settings.json": [
+          {
+            "timestamp": "2026-02-27T13:44:15.030Z",
+            "fileName": "c:\\Users\\Van\\AppData\\Roaming\\Windsurf\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "User",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-02-27T13:44:15.857Z",
+            "fileName": "c:\\Users\\Van\\AppData\\Roaming\\Windsurf\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "User",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-02-27T13:45:52.549Z",
+            "fileName": "c:\\Users\\Van\\AppData\\Roaming\\Windsurf\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "User",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 3
+      },
+      "changeFrequency": {
+        "10": 3
+      },
+      "topFiles": [
+        "c:\\Users\\Van\\AppData\\Roaming\\Windsurf\\User\\settings.json"
+      ],
+      "averageChangeSize": 10.666666666666666
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
