@@ -61,6 +61,39 @@
         "c:\\Users\\Van\\AppData\\Roaming\\Windsurf\\User\\settings.json"
       ],
       "averageChangeSize": 10.666666666666666
+    },
+    "windsurf": {
+      "totalLinesAdded": 91,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\Van\\.codeium\\windsurf\\mcp_config.json": [
+          {
+            "timestamp": "2026-02-27T14:01:46.366Z",
+            "fileName": "c:\\Users\\Van\\.codeium\\windsurf\\mcp_config.json",
+            "fileType": ".json",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "windsurf",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "c:\\Users\\Van\\.codeium\\windsurf\\mcp_config.json"
+      ],
+      "averageChangeSize": 91
     }
   },
   "totalActiveTime": 3,
